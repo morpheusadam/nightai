@@ -5,11 +5,11 @@
 ### A full-featured Laravel AI SaaS that turns prompts into text, images, chat, code, voice and video — with multi-provider AI engines, subscriptions and payments built in.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/nightai?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/nightai?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/nightai?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/nightai?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/nightai?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/NightAI?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/NightAI?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/NightAI?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/NightAI?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/NightAI?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -93,7 +93,7 @@ It is built for **founders, agencies, and indie hackers** who want to launch a b
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/morpheusadam/nightai.git
+git clone https://github.com/morpheusadam/NightAI.git
 cd nightai
 
 # 2. Install PHP & JS dependencies
@@ -151,7 +151,7 @@ nightai/ (MagicAI)
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/nightai/issues) or submit a pull request. Please run the test and lint suites before submitting:
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/NightAI/issues) or submit a pull request. Please run the test and lint suites before submitting:
 
 ```bash
 composer test      # Pest test suite
@@ -185,8 +185,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/nightai&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/nightai&type=Date" alt="nightai — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/NightAI&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/NightAI&type=Date" alt="nightai — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
