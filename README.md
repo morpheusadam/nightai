@@ -179,3 +179,20 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 ⭐ **If MagicAI helps you launch your AI product, consider giving it a star!** ⭐
 
 </div>
+
+
+---
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#morpheusadam/nightai&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/nightai&type=Date" alt="nightai — Star History Chart" width="70%" />
+</a>
+
+<div align="center">
+
+### If this project helps you, please give it a ⭐
+
+A star helps other developers discover **nightai** and supports continued development.
+
+</div>
