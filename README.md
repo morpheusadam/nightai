@@ -1,7 +1,5 @@
 <div align="center">
-
-# 🪄 MagicAI — AI Content & SaaS Platform
-
+# 🪄 NightAI — AI Content & SaaS Platform
 ### A full-featured Laravel AI SaaS that turns prompts into text, images, chat, code, voice and video — with multi-provider AI engines, subscriptions and payments built in.
 
 <p>
